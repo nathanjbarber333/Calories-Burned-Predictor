@@ -1,0 +1,2 @@
+# Calories Burned Predictor
+This program utilizes basic Machine Learning concepts to predict the amount of calories someone will burn and takes many factors into consideration such as height, weight, age, etc. When working on this project I was introduced to many key ML concepts such as splitting data into test / train groups, visualizing correlations within a dataset, and figuring out how to calculate mean absolute error using data predictions.
